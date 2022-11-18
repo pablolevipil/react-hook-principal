@@ -1,0 +1,6 @@
+Custom Hooks: 
+.- Se crea una funcion para reutilizar el codigo como por ejemplo cambios de estado. 
+.- Se debe manejar siempre con el nombre de las funciones de useState o useEffect (en este caso le asigno el "use" al principio)
+
+Subir a Github: 
+.- Se crea primero el repositorio en github para luego subirlo mediante comandos git
