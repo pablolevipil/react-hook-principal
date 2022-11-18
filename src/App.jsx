@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div>
-      <button onClick={ () => handleToggle() }>Toggle</button>
+      <button onClick={ () => handleToggle() }>Cambio de estado</button>
       <button onClick={ () => handleTrue() }>true</button>
       <button onClick={ () => handleFalse() }>false</button>
       {active.toString()}
